@@ -22,3 +22,9 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+firebase.json
+.firebaserc
+.vscode
+.firebase
+bun.lockb
